@@ -1,3 +1,3 @@
 # Reverse Words Algorithm
 
-This is a simple example of the Reverse Words algorithm in JavaScript.
+These are two simple examples of the Reverse Words algorithm in JavaScript.
